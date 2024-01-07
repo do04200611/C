@@ -4,8 +4,9 @@
 
 ## Language of repository📚
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
 ## Introduction to repositories <br> 
- c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리입니다.
+c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리입니다.
 
 
 
