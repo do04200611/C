@@ -4,15 +4,17 @@
 
 ## Language of repository📚
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
 ## Introduction to repositories 
  c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리입니다.
 
 
 
  ## result
-2단 부터 구구단을 출력했습니다.
+2단 부터 구구단을 출력했습니다.<br>
 ![스크린샷 2024-01-07 105741](https://github.com/do04200611/cplusplus/assets/74278578/94575c83-b62f-4206-9972-3bec27d0f7c7)
-구구단과 글자 두 개를 다른 위치에 출력시킵니다.
+
+구구단과 글자 두 개를 다른 위치에 출력시킵니다. <br>
 ![image](https://github.com/do04200611/cplusplus/assets/74278578/303b082f-f115-44dd-82f6-24b2622d47ca)
 
 ## Contact 
