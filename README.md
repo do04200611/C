@@ -13,7 +13,7 @@
 
   | プロジェクト名           | 期間          | 説明                 |
   |------------------------|---------------|--------------------|
-  |[printf만 사용해서 만든 결과.]( ![image](https://github.com/do04200611/c/assets/74278578/f877584d-6cf2-4274-b144-eec767fce693)
+  |[printf만 사용해서 만든 결과.](![image](https://github.com/do04200611/c/assets/74278578/f877584d-6cf2-4274-b144-eec767fce693)
 ) |2024/01/07|printf만 쓴 것입니다. |
 
 
@@ -35,4 +35,4 @@
   |<a href="https://kimganghyeon.my.canva.site/kimganghyeon"><img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva" alt="canva"></a>|11月|ウェブバージョン|
   |<a href="https://www.canva.com/design/DAFzY5opUiA/Ge33dSKE16cErBaDJDp-BA/edit"><img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva" alt="canva"></a>|11月|<img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva" alt="canva">バージョン|
 </p>
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=100&text=Thank%20you%20for%20watching.&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&text=Thank%20you%20for%20watching.&section=footer" />
