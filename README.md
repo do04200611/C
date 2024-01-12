@@ -9,21 +9,22 @@
 c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리입니다.
 
 #result
-![image]()
-
  <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp">
     <img src="https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756">
   </a>
 
  ## project
 
-  | プロジェクト名           | 期間          | 説明                 |
-  |------------------------|---------------|--------------------|
-  |[printf만 사용해서 만든 결과.](https://github.com/do04200611/c/assets/74278578/f877584d-6cf2-4274-b144-eec767fce693)|2024/01/07|printf만 쓴 것입니다. |
- |[구구단을 출력한 결과물.](https://github.com/do04200611/cplusplus/assets/74278578/9ad15242-c202-45d2-825d-928237458127)|2024/01/07|printf만 쓴 것입니다. |
+  | プロジェクト名           | 期間          | 説明                 |コード|
+  |------------------------|---------------|--------------------|-----------|
+  |[printf만 사용해서 만든 결과.](https://github.com/do04200611/c/assets/74278578/f877584d-6cf2-4274-b144-eec767fce693)|2024/01/07|printf만 쓴 것입니다. |[コード](https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp
+)|
+ |[구구단을 출력한 결과물.](https://github.com/do04200611/cplusplus/assets/74278578/9ad15242-c202-45d2-825d-928237458127)|2024/01/07|printf만 쓴 것입니다. | <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp">
+    <img src="https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756">
+  </a> |
+ 
 
 ## Contact 
-
 
 
 <p align="center">
