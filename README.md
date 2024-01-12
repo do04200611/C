@@ -19,6 +19,11 @@ c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리�
   |----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------|
   |<a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp"><img src="https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756"></a>|2024/01/07|printf만 쓴 것입니다.|
  |<a href="https://github.com/do04200611/C/blob/main/helloworld/helloworld/%EC%86%8C%EC%8A%A4.cpp"><img src="https://github.com/do04200611/C/assets/74278578/84dc1d31-2abb-4264-8c79-cca8cb7112ae"></a>|2024/01/07|printf만 쓴 것입니다. | 
+
+# react about
+  | プロジェクト名           | 期間          | 説明                 |
+  |------------------------|---------------|--------------------|
+  |[C언어에 대한 개념 정리 블로그](https://kim-kang-hyun.tistory.com/5)|2024/01/08|C언어에 대한 개념 정리를 했습니다.|
  
 # Contact 
 
