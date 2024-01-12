@@ -9,8 +9,11 @@
 c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리입니다.
 
 #result
-![image](https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756)
+![image]()
 
+ <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp">
+    <img src="https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756">
+  </a>
 
  ## project
 
