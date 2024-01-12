@@ -14,7 +14,7 @@
 2단 부터 구구단을 출력했습니다.<br>
 
  <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp">
-   <img src="https://github.com/do04200611/cplusplus/assets/74278578/94575c83-b62f-4206-9972-3bec27d0f7c7>
+   <img src="https://github.com/do04200611/cplusplus/assets/74278578/94575c83-b62f-4206-9972-3bec27d0f7c7">
 </a>
     ![스크린샷 2024-01-07 105741]()
 
