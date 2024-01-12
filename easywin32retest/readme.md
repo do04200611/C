@@ -16,10 +16,14 @@
  <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp">
    <img src="https://github.com/do04200611/cplusplus/assets/74278578/94575c83-b62f-4206-9972-3bec27d0f7c7">
 </a>
-    ![스크린샷 2024-01-07 105741]()
 
 구구단과 글자 두 개를 다른 위치에 출력시킵니다. <br>
-![image](https://github.com/do04200611/cplusplus/assets/74278578/303b082f-f115-44dd-82f6-24b2622d47ca)
+
+<a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp">
+   <img src="https://github.com/do04200611/cplusplus/assets/74278578/303b082f-f115-44dd-82f6-24b2622d47ca">
+</a>
+
+![image]()
 
 ## Contact 
 
