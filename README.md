@@ -18,7 +18,7 @@ c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리�
   |結果                                                                                                                                                            | 期間          | 説明               |
   |----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------|
   |<a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp"><img src="https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756"></a>|2024/01/07|printf만 쓴 것입니다.|
- |[구구단을 출력한 결과물.](https://github.com/do04200611/cplusplus/assets/74278578/9ad15242-c202-45d2-825d-928237458127)|2024/01/07|printf만 쓴 것입니다. | 
+ |<a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp"><img src="https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756"></a>|2024/01/07|printf만 쓴 것입니다. | 
  
 
 ## Contact 
