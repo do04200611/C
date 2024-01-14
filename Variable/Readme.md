@@ -9,9 +9,10 @@
 c언어를 쓰면서 변수에 대해서 배웠던 것을 모아놓은 레파지토리입니다.
 
 # result
- <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp">
-    <img src="https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756">
-  </a>
+<a href="https://github.com/do04200611/C/blob/main/Variable/Variable/variable.cpp"><img src="https://github.com/do04200611/C/assets/74278578/98f022ed-6b52-4aec-a814-4495bd9b5c5b"></a>
+
+<a href="https://github.com/do04200611/C/blob/main/Variable/Variable/other_varialbe.cpp"><img src="https://github.com/do04200611/C/assets/74278578/8eb0638f-589a-4628-86fc-5229a01499ea"></a>
+
 
  # project
 
