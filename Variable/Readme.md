@@ -17,8 +17,8 @@ c언어를 쓰면서 변수에 대해서 배웠던 것을 모아놓은 레파지
 
   |結果                                                                                                                                                            | 期間          | 説明               |
   |----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------|
-  |<a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp"><img src="https://github.com/do04200611/C/assets/74278578/8eb0638f-589a-4628-86fc-5229a01499ea"></a>|2024/01/07|printf만 쓴 것입니다.|
- |<a href="https://github.com/do04200611/C/blob/main/helloworld/helloworld/%EC%86%8C%EC%8A%A4.cpp"><img src="https://github.com/do04200611/C/assets/74278578/98f022ed-6b52-4aec-a814-4495bd9b5c5b"></a>|2024/01/07|printf만 쓴 것입니다. | 
+  |<a href="https://github.com/do04200611/C/blob/main/Variable/Variable/variable.cpp"><img src="https://github.com/do04200611/C/assets/74278578/8eb0638f-589a-4628-86fc-5229a01499ea"></a>|2024/01/14|변수에 값을 할당한 코드|
+ |<a href="https://github.com/do04200611/C/blob/main/Variable/Variable/other_varialbe.cpp"><img src="https://github.com/do04200611/C/assets/74278578/98f022ed-6b52-4aec-a814-4495bd9b5c5b"></a>|2024/01/14|변수를 이용해서 산수 연산 코드| 
 
 # react about
   | プロジェクト名           | 期間          | 説明                 |
