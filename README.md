@@ -12,6 +12,9 @@ c++을 쓰면서 배웠던 것을 올려놓은 걸 모아놓은 레파지토리�
  <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/easywin32retest.cpp">
     <img src="https://github.com/do04200611/cplusplus/assets/74278578/ff06f7ed-4bde-4d0c-92f3-7226b5152756">
   </a>
+<a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/Rectangel.cpp">
+   <img src="https://github.com/do04200611/C/assets/74278578/86bfef3f-c266-4ec1-bc99-b57fdbde30bd">
+</a>
 
  # project
 
