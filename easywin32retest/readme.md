@@ -19,7 +19,7 @@
 
 동그라미, 사각형등의 다양한 도형을 출력시킵니다.<br>
 <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/Rectangel.cpp">
-   <img src="https://github.com/do04200611/C/assets/74278578/86bfef3f-c266-4ec1-bc99-b57fdbde30bd">
+   <img src="https://github.com/do04200611/C/assets/74278578/f55f9901-fea9-4c73-bd61-24fcf0152676">
 </a>
 
 
