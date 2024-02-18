@@ -22,7 +22,8 @@
    <img src="https://github.com/do04200611/C/assets/74278578/f55f9901-fea9-4c73-bd61-24fcf0152676">
 </a>
 
-
+작업 영역의 크기 및 배경 색 등을 설정한 결과입니다.<br>
+<a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/window-practice.cpp"><img src="https://github.com/do04200611/C/assets/74278578/1a805a84-69d7-44c4-97d2-99d17786cb31"></a>
 
 ## Contact 
 
