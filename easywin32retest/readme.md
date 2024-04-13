@@ -25,6 +25,10 @@
 작업 영역의 크기 및 배경 색 등을 설정한 결과입니다.<br>
 <a href="https://github.com/do04200611/C/blob/main/easywin32retest/easywin32retest/window-practice.cpp"><img src="https://github.com/do04200611/C/assets/74278578/1a805a84-69d7-44c4-97d2-99d17786cb31"></a>
 
+도형 출력의 심화 과정을 배운 결과입니다.<br>
+![image](https://github.com/do04200611/C/assets/74278578/5044720b-f27b-43d3-b2fe-c0015192298b)
+
+
 ## Contact 
 
 
