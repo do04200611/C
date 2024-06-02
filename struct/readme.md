@@ -1,3 +1,4 @@
+
 # 구조체
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=C언어%20구조체%20페이지)
